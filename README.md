@@ -1,3 +1,3 @@
 # Machine-Learning
 
-### Showcasing my journey of my machine-learning development using simple projects 
+### Showcasing my journey of machine-learning development using simple projects focusing mathematics and algorithms to develop various models 
